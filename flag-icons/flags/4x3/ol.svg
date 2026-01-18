@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-ol" width="640" height="480" viewBox="0 0 640 480">
     <rect width="640" height="480" fill="#007bff"/>
 
-    <path fill="#ffffff" d="M460,230 L540,170 L540,310 L460,250 L460,300 C460,311.046 451.046,320 440,320 L140,320 C128.954,320 120,311.046 120,300 L120,180 C120,168.954 128.954,160 140,160 L440,160 C451.046,160 460,168.954 460,180 L460,230 Z"/>
+    <g fill="#ffffff">
+        <rect x="110" y="140" width="300" height="200" rx="30" />
+
+        <path d="M430,240 L530,160 L530,320 Z" />
+    </g>
 </svg>
